@@ -9,7 +9,7 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-By making 1,3,5,7 switches on the dip-switch-8 component high, we display a mirrored 3 ('M' sideways) on the 7-segment display. An LED will light as well when the correct sequence is inputted. 
+By making 1,3,5,7 switches on the dip-switch-8 component high, we display a mirrored 3 ('M' sideways) on the 7-segment display. An LED will light as well when the correct sequence is inputted.
 
 ## How to test
 
